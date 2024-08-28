@@ -10,17 +10,14 @@ body {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     grid-template-rows: repeat(15, auto);
-    gap: 2px;
     padding: 0;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0;
     background-color: #fff;
-    border: 1px solid #ddd;
 }
 
 .grid-item {
     background-color: #e0e0e0;
-    border: 1px solid #ccc;
     padding: 0;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
