@@ -2,6 +2,7 @@
     display: flex;
     padding: 0;
     margon: 0;
+    flex-wrap: wrap;
 }
 
 .grid-item {
