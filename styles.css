@@ -3,7 +3,7 @@
     padding: 0;
     margon: 0;
     flex-wrap: wrap;
-    align-content: wrap-start;
+    align-content: flex-start;
 }
 
 .grid-item {
