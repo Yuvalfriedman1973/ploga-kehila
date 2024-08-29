@@ -19,7 +19,7 @@
     text-align: center;
 }
 
-.grid-item img {
+img {
     aspect-ratio: 1/1;
     object-fit: cover;
     justify-content: center;
