@@ -19,5 +19,6 @@
 img {
     width: 15px;
     height: 15px;
-    justify-content: end;
+    justify-content: center;
+    align-items: center;
 }
