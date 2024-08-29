@@ -45,14 +45,6 @@ body, html {
     background-color: #ffffff;
 }
 
-.chat-input {
-    flex: 1;
-    padding: 10px;
-    border: 3px solid #ccc;
-    border-radius: 15px;
-    direction: rtl;
-}
-
 .chat-send-button {
     background-color: #ffffff; /* צבע רקע לכפתור */
     border: none;
@@ -65,4 +57,12 @@ body, html {
 .chat-send-button img {
     width: 50px;
     height: 50px;
+}
+
+.chat-input {
+    flex: 1;
+    padding: 10px;
+    border: 3px solid #ccc;
+    border-radius: 15px;
+    direction: rtl;
 }
