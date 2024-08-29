@@ -4,11 +4,13 @@
     grid-template-rows: repeat(12, auto); /* 15 שורות */
     gap: 10px; /* רווח בין הקוביות */
     padding: 0;
+    margon: 0;
 }
 
 .grid-item {
     background-color: #f2f2f2;
     border: 1px solid #ccc;
     padding: 0;
+    margin: 0;
     text-align: center;
 }
