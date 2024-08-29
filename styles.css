@@ -13,6 +13,7 @@
     height: 43px;
     background-image: url(https://sagol-lectures.co.il/wp-content/uploads/2020/09/%D7%AA%D7%9E%D7%95%D7%A0%D7%AA-%D7%A4%D7%A1%D7%A4%D7%95%D7%A8%D7%98.jpg);
     background-size: 100%;
+    background-repeat: no-reprat;
     background-position: center;
     border: 1px solid #ccc;
     padding: 0;
