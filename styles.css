@@ -41,7 +41,7 @@ body, html {
     left: 0;
     right: 0;
     height: 70px; /* גובה התיבה */
-    border-radius: 5px;
+    border-radius: 15px;
     display: flex;
     align-items: center;
     padding: 10px;
