@@ -36,7 +36,6 @@ body, html {
 
 /* מרכיב הצ'אט */
 .chat-container {
-    position: fixed;
     left: 0;
     right: 0;
     height: 70px; /* גובה התיבה */
