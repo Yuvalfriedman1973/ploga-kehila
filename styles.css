@@ -4,6 +4,7 @@
     margon: 0;
     flex-wrap: wrap;
     align-content: flex-start;
+    justify-content: center;
 }
 
 .grid-item {
