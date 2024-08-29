@@ -40,7 +40,8 @@ body, html {
     bottom: 10%; /* גובה של 10% מהדף */
     left: 0;
     right: 0;
-    height: 50px; /* גובה התיבה */
+    height: 70px; /* גובה התיבה */
+    border-radius: 5px;
     display: flex;
     align-items: center;
     padding: 10px;
