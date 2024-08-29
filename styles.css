@@ -3,7 +3,7 @@
     grid-template-columns: repeat(8, 1fr); /* 9 עמודות */
     grid-template-rows: repeat(12, auto); /* 15 שורות */
     gap: 10px; /* רווח בין הקוביות */
-    padding: 10px;
+    padding: 0;
 }
 
 .grid-item {
