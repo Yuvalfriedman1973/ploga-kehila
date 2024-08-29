@@ -1,6 +1,6 @@
 .grid-container {
     display: flex;
-    padding: 2px;
+    padding: 8px;
     margin: 0;
     flex-wrap: wrap;
     align-content: flex-start;
