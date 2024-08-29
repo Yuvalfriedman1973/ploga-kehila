@@ -26,3 +26,45 @@
     height: 100%;
     object-fit: cover; /* מתאים את התמונה כך שתמלא את הקוביה מבלי לעוות אותה */
 }
+
+/* הגדרות כלליות של הדף */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* מרכיב הצ'אט */
+.chat-container {
+    position: fixed;
+    bottom: 10%; /* גובה של 10% מהדף */
+    left: 0;
+    right: 0;
+    height: 50px; /* גובה התיבה */
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.chat-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.chat-send-button {
+    background-color: #4CAF50; /* צבע רקע לכפתור */
+    border: none;
+    margin-left: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.chat-send-button img {
+    width: 20px;
+    height: 20px;
+}
