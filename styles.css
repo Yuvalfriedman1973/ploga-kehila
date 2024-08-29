@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(9, 11%); /* 9 עמודות */
-    grid-template-rows: repeat(12, 11%; /* 15 שורות */
+    grid-template-rows: repeat(12, 8%; /* 15 שורות */
     padding: 0;
     margon: 0;
 }
