@@ -110,6 +110,24 @@
         <div class="grid-item">98</div>
         <div class="grid-item">99</div>
     </div>
+    <head>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(9, 1fr); /* 9 עמודות */
+            grid-template-rows: repeat(15, auto); /* 15 שורות */
+            gap: 10px; /* רווח בין הקוביות */
+            padding: 10px;
+        }
+
+        .grid-item {
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+    </head>
 </body>
 </html>
 
