@@ -10,11 +10,6 @@ body {
 .grid-container {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-template-rows: repeat(15, auto);
-    padding: 0;
-    max-width: 1200px;
-    margin: 0 auto;
-    background-color: #fff;
 }
 
 .grid-item {
