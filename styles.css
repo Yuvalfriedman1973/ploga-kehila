@@ -1,13 +1,13 @@
 .grid-container {
-    display: grid;
-    grid-template-columns: repeat(10, 10%); /* 9 עמודות */
-    grid-template-rows: repeat(10, 40px); /* 15 שורות */
+    display: flex;
     padding: 0;
     margon: 0;
 }
 
 .grid-item {
     background-color: #f2f2f2;
+    width: 50px;
+    height: 50px;
     border: 1px solid #ccc;
     padding: 0;
     margin: 0;
