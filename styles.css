@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(8, 12%); /* 9 עמודות */
-    grid-template-rows: repeat(10, 50px); /* 15 שורות */
+    grid-template-columns: repeat(10, 10%); /* 9 עמודות */
+    grid-template-rows: repeat(10, 40px); /* 15 שורות */
     padding: 0;
     margon: 0;
 }
