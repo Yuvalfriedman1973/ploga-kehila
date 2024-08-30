@@ -9,8 +9,8 @@
 
 .grid-item {
     background-color: #f2f2f2;
-    width: 44.5px;
-    height: 44.5px;
+    width: 44px;
+    height: 44px;
     display: flex;
     align-items: center;
     justify-content: center;
