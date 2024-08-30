@@ -17,13 +17,13 @@
     border: 1px solid #ccc;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
-    text-align: center;
 }
 
-.grid-item img {
+img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+
 }
 
 /* הגדרות כלליות של הדף */
